@@ -1,0 +1,37 @@
+body{
+    background-color: #e6e6fa;
+    padding: 5%;
+}
+
+h1, div{
+    margin: 15%;
+    text-align: center;
+}
+
+h1{
+    margin-top: 5%;
+}
+
+button {
+    border: none;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+img {
+    width: 7em;
+}
+
+#jumbo {
+    border: dotted #A7A8CD 2px;
+    padding: 10%;
+    overflow: hidden;
+}
+
+p, h1{
+    font-family: 'Crimson Text', serif;
+}
+
+#text {
+    font-size: 3ex;
+}
